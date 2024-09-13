@@ -1,5 +1,5 @@
 
-# Techflitter Solutions Fullstack Developer Assignment
+# Techflitter Solutions Fullstack Developer Task
 
 This project is a full-stack web application designed to demonstrate the skills required for a Fullstack Developer position at Techflitter Solutions. The application provides a range of user-related functionalities, including authentication, password management, and profile updates.
 
